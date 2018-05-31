@@ -3,8 +3,10 @@ body {
     width: 70%;
 }
 #aboutme {
-    margin-left: 1em;
-	margin: auto;
+   width: 50%;
+   height: 75%;
+   min-width: 100px;
+   min-height: 100px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
