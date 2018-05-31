@@ -7,10 +7,6 @@ body {
    margin-left: 120px;
    margin-bottom: 60px; 
 }
-#homehouse {
-    height: 48;
-    width: 48;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
