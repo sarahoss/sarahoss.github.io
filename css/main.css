@@ -8,7 +8,7 @@ body {
    margin-bottom: 60px; 
 }
 nav ul, footer ul {
-    font-family:'Droid Sans';
+    font-family: 'Verdana', 'Geneva', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -19,14 +19,14 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #6699ff;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 2em;
-    font-family:'Droid Sans';
+    font-family:'Verdana', 'Geneva', sans-serif;
 }
 p {
     font-size: 1.2em;
