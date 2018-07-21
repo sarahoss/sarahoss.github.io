@@ -3,15 +3,15 @@ body {
     width: 70%;
 }
 #aboutme {
-   margin-right: 120px;
-   margin-left: 120px;
+   margin-right: 160px;
+   margin-left: 160px;
    margin-bottom: 60px; 
 }
 nav ul, footer ul {
     font-family: 'Open Sans', sans-serif;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: lighter;
 }
 nav ul li, footer ul li {
     display: inline;
