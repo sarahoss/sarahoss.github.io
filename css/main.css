@@ -19,6 +19,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 30px;
 }
+.topnav {
+  overflow: hidden;
+}
+.topnav a{
+    float: left;
+}
 .topnav-right {
     float: right;
 }
