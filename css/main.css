@@ -19,7 +19,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 30px;
 }
-nav ul li {
+.topnav-right {
     float: right;
 }
 a {
