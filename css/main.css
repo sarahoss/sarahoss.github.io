@@ -7,7 +7,7 @@ body {
    margin-left: 350px;
    margin-top: 60px;
    margin-bottom: 60px; 
-   font-weight: 100;
+   font-weight: lighter;
 }
 nav ul, footer ul {
     font-family: 'Open Sans', sans-serif;
