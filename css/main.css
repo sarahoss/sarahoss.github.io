@@ -7,6 +7,7 @@ body {
    margin-left: 320px;
    margin-top: 60px;
    margin-bottom: 60px; 
+   width: 20em;
    font-weight: lighter;
 }
 nav ul, footer ul {
@@ -41,8 +42,9 @@ p {
     margin-top: 30px;
     margin-bottom: 60px; 
     font-size: 1.2em;
-    line-height: 1.2em;
+    line-height: 1.1em;
     color: #595959;
+    width: 50em;
     font-family: 'Open Sans', sans-serif;
 }
 footer {
