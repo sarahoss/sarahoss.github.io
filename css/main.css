@@ -3,10 +3,11 @@ body {
     width: 70%;
 }
 #aboutme{
-   margin-right: 320px;
-   margin-left: 320px;
+   margin-right: 400px;
+   margin-left: 4000px;
    margin-top: 60px;
    margin-bottom: 60px; 
+   font-weight: 100;
 }
 nav ul, footer ul {
     font-family: 'Open Sans', sans-serif;
