@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Open Sans', sans-serif;
 }
 #aboutme p{
    margin-right: 160px;
@@ -34,6 +33,7 @@ p {
     font-size: 1.2em;
     line-height: 1.2em;
     color: #595959;
+    font-family: 'Open Sans', sans-serif;
 }
 footer {
     border-top: 5px dotted #d5d5d5;
